@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    
+}
+img{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 5px;
+}
+body{
+    background-color: rgb(218, 216, 216);
+}
+video{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 5px;
+}
